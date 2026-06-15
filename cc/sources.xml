@@ -2,6 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://pornhub.com</loc>
-        <feed>https://www.pornhub.com/rss</feed>
+        <type>crawl</type>
     </url>
 </urlset>
